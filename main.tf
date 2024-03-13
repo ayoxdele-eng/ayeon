@@ -1,4 +1,4 @@
-# Define variables
+# Define variablesss
 terraform {
   required_providers {
     azurerm = {
